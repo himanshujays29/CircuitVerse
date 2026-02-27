@@ -84,11 +84,11 @@ class AboutController < ApplicationController
         img: "https://avatars.githubusercontent.com/u/148184013?v=4", link: "https://github.com/Radhikaa-chauhan" },
       { name: "ANIRUDDH",
         img: "https://avatars.githubusercontent.com/u/149250431?v=4", link: "https://github.com/blazethunderstorm" },
-      { name: "Himanshu jayswal",
+      { name: "Himanshu Jayswal",
         img: "https://avatars.githubusercontent.com/u/158487820?v=4", link: "https://github.com/himanshujays29" },
       { name: "Naman Chhabra",
         img: "https://avatars.githubusercontent.com/u/159947791?v=4", link: "https://github.com/naman79820" },
-      { name: "Yana pandey",
+      { name: "Yana Pandey",
         img: "https://avatars.githubusercontent.com/u/173885830?v=4", link: "https://github.com/Yana-do-code" },
       { name: "Himanshu Soni",
         img: "https://avatars.githubusercontent.com/u/183348352?v=4", link: "https://github.com/h30s" }
