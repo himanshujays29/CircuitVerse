@@ -76,7 +76,7 @@ class AboutController < ApplicationController
         img: "https://avatars.githubusercontent.com/u/146776812?v=4", link: "https://github.com/JatsuAkaYashvant" },
       { name: "Ghanshyam Singh",
         img: "https://avatars.githubusercontent.com/u/56252619?v=4", link: "https://github.com/ghanshyam2005singh" },
-      { name: "Harsh",
+      { name: "Harsh Bhadu",
         img: "https://avatars.githubusercontent.com/u/102225113?v=4", link: "https://github.com/senbo1" },
       { name: "Supreeth C",
         img: "https://avatars.githubusercontent.com/u/141218988?v=4", link: "https://github.com/ShinichiShi" },
